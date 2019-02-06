@@ -1,0 +1,11 @@
+---
+created: "2019-02-06T10:59:41.906305577Z"
+creator: insta@0.6.1
+source: src/lib.rs
+expression: "r#\"\nFirst line\n\nSecond line\n\"#"
+---
+
+First line
+
+Second line
+
