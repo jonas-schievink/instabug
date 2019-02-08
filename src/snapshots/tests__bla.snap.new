@@ -1,11 +1,11 @@
 ---
-created: "2019-02-06T10:59:41.906305577Z"
+created: "2019-02-08T10:24:45.710571567Z"
 creator: insta@0.6.1
 source: src/lib.rs
-expression: "r#\"\nFirst line\n\nSecond line\n\"#"
+expression: "r#\"\nFirst line\nSecond line\nThird line\n\"#"
 ---
 
 First line
-
 Second line
+Third line
 

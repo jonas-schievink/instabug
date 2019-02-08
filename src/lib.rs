@@ -8,8 +8,8 @@ mod tests {
             "bla",
             r#"
 First line
-
 Second line
+Third line
 "#
         );
     }
